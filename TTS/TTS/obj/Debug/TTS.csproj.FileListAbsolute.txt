@@ -1,0 +1,9 @@
+C:\Users\ITRI2021\Desktop\jiarong_file\repos\TTS\TTS\bin\Debug\TTS.exe.config
+C:\Users\ITRI2021\Desktop\jiarong_file\repos\TTS\TTS\bin\Debug\TTS.exe
+C:\Users\ITRI2021\Desktop\jiarong_file\repos\TTS\TTS\bin\Debug\TTS.pdb
+C:\Users\ITRI2021\Desktop\jiarong_file\repos\TTS\TTS\obj\Debug\TTS.csproj.AssemblyReference.cache
+C:\Users\ITRI2021\Desktop\jiarong_file\repos\TTS\TTS\obj\Debug\TTS.csproj.CoreCompileInputs.cache
+C:\Users\ITRI2021\Desktop\jiarong_file\repos\TTS\TTS\obj\Debug\TTS.exe
+C:\Users\ITRI2021\Desktop\jiarong_file\repos\TTS\TTS\obj\Debug\TTS.pdb
+C:\Users\ITRI2021\Desktop\jiarong_file\repos\TTS\TTS\obj\Debug\Interop.SpeechLib.dll
+C:\Users\ITRI2021\Desktop\jiarong_file\repos\TTS\TTS\obj\Debug\TTS.csproj.ResolveComReference.cache
